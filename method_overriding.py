@@ -10,3 +10,5 @@ c=child()
 c.study()
 
 # child.study()
+
+

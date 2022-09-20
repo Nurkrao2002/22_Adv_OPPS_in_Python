@@ -10,3 +10,4 @@ class B(A):
 
 c=B()
 c.method1()
+
